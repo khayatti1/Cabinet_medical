@@ -1,4 +1,4 @@
-# Cabinet Médical
+# Cabinet médical
 
 ##  Description
 **cabinet_medical** est une application web destinée à la gestion d’un cabinet médical. Développée en **PHP**, elle permet une administration fluide et organisée des patients, des rendez-vous, et des consultations via une architecture modulable (souvent inspirée du modèle MVC).
